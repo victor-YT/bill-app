@@ -7,3 +7,4 @@
     <td><img src="image3.png" width="200"/></td>
   </tr>
 </table>
+![image_1](https://github.com/victor-YT/bill-app/blob/main/src/assets/readme_images/screen_1.jpeg)
