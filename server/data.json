@@ -124,6 +124,12 @@
       "type": "pay",
       "money": -5,
       "useFor": "drinks"
+    },
+    {
+      "id": "94d1",
+      "type": "pay",
+      "money": -10,
+      "useFor": "longdistance"
     }
   ]
 }
