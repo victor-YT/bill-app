@@ -1,10 +1,9 @@
 # This is an app to track of bills.
 
-<table>
-  <tr>
-    <td><img src="assets/images/image1.png" width="200"/></td>
-    <td><img src="image2.png" width="200"/></td>
-    <td><img src="image3.png" width="200"/></td>
-  </tr>
-</table>
-![https://github.com/victor-YT/bill-app/blob/main/src/assets/readme_images/screen_1.jpeg](https://raw.githubusercontent.com/victor-YT/bill-app/main/src/assets/readme_images/screen_1.jpeg)
+It contains monthly and annually bills statistics pages. And you can click the button 'new' in the navigation bar to add a new payment or income
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/victor-YT/bill-app/main/src/assets/readme_images/screen_1.jpeg" alt="image_1" width="33%" />
+    <img src="https://raw.githubusercontent.com/victor-YT/bill-app/main/src/assets/readme_images/screen_2.jpeg" alt="image_2" width="33%" />
+    <img src="https://raw.githubusercontent.com/victor-YT/bill-app/main/src/assets/readme_images/screen_3.jpeg" alt="image_3" width="33%" />
+</div>
