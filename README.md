@@ -13,3 +13,7 @@ All pages have the date selector, you can choose any date to store and check the
 </div>
 
 Use react-18.
+use json-server to simulate the data.
+
+`npm run server` to open the json-server. It will open on 8888/ka.  
+`npm run start` to run the project.
