@@ -130,6 +130,12 @@
       "type": "pay",
       "money": -10,
       "useFor": "longdistance"
+    },
+    {
+      "id": "eb662b45-9fff-4a01-9e11-e19b1a49847f",
+      "type": "income",
+      "money": 120,
+      "useFor": "financial"
     }
   ]
 }

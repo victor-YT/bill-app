@@ -6,8 +6,9 @@ import { billListData } from '@/contants'
 import { useNavigate } from 'react-router-dom'
 import {useState} from "react"
 import { addBillList } from "@/store/modules/billStore"
-import {useDispatch} from "react-redux";
-import dayjs from "dayjs";
+import {useDispatch} from "react-redux"
+import dayjs from "dayjs"
+import { v4 as uuidv4 } from 'uuid'
 
 
 const New = () => {
@@ -32,7 +33,8 @@ const New = () => {
             type: billType,
             money: billType === 'pay' ? -money : +money,
             date: date,
-            useFor: useFor
+            useFor: useFor,
+            id: uuidv4()
         }
         console.log(data)
         dispatch(addBillList(data))
