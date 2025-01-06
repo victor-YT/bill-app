@@ -12,7 +12,7 @@ All pages have the date selector, you can choose any date to store and check the
     <img src="https://raw.githubusercontent.com/victor-YT/bill-app/main/src/assets/readme_images/screen_3.jpeg" alt="image_3" width="30%" />
 </div>
 
-Use react-18.
+react project
 use json-server to simulate the data.
 
 1. `npm i` to installing dependencies.
